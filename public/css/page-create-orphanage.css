@@ -5,6 +5,7 @@
 
 main {
     flex: 1;
+    background: linear-gradient(90deg, #0296a7 0%, #15c3d6 100%);
 }
 
 .map-container {
@@ -19,3 +20,20 @@ main {
     background: #f5f8fa;
     border-radius: 0 0 20px 20px;
 }
+
+.back-orphanages{
+    width: 48px;
+    height: 48px;
+    border: none;
+    /* background: #FFD666; cor do icone */
+    background: #12afcb;   
+    border-radius: 1.6rem;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+    transition:background-color 0.2s;
+}
+
