@@ -1,4 +1,4 @@
-Background da pag create-orphanage
+Background da pag create-orphanage (check)
 
 outline
  
@@ -6,5 +6,7 @@ modificar o conteudo escrito para algo proprio
 
 
  mexer no placeholder (create-orphanage)
+
+ criar um orfanato fake
 
  
