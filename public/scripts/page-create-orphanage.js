@@ -1,4 +1,4 @@
-const map = L.map("mapid").setView([-22.7626236,-43.3927589], 15);
+const map = L.map("mapid").setView([-22.7626236,-43.4997589], 15);
 
 //create and add tilelayer
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map);
@@ -96,4 +96,15 @@ function toggleSelect(event) {
     input.value = button.dataset.value;
 
     
+}
+
+function validate(event) {
+
+    //validar se lat e lng estão preenchidos
+    const needsLatAndLng = false;
+    if(needsLatAndLng){
+        
+        event.preventDefault();
+        alert('Selecione um ponto no mapa')
+    }
 }
