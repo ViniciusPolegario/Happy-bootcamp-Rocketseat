@@ -1,52 +1,41 @@
-<h1 align="center">Welcome to Happy 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/ViniciusPolegario/NLW3#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/ViniciusPolegario/NLW3/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/ViniciusPolegario/NLW3/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/ViniciusPolegario/Happy" />
-  </a>
-</p>
+<h1 align="left">
+    <img alt="Happy" title="Happy" src="/public/images/logo.svg" />
+</h1>
 
-> Criado durante o bootcamp da Rockeatseat, com intutito de aprimorar os conhecimentos nas tecnologias.
+<br>
 
-### 🏠 [Homepage](https://github.com/ViniciusPolegario/NLW3#readme)
+<h1 align="center">
+    <img alt="Home-page" title="Home-page" src="/public/images/home-page.jpg">
+</h1>
 
-## Install
+##  Tecnologias
 
-```sh
-npm install
-```
+Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-## Usage
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [handlebars](https://handlebarsjs.com/)
 
-```sh
-npm start
-```
 
-## Author
+##  Projeto
 
-👤 **ViniciusPolegario**
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020,
+para levar os participantes ao próximo nível. Foram realizadas algumas alterações no projeto original.
 
-* Github: [@ViniciusPolegario](https://github.com/ViniciusPolegario)
-* LinkedIn: [@Vinicius Polegario](https://linkedin.com/in/Vinicius Polegario)
+##  Layout
 
-## 🤝 Contributing
+Você pode visualizar o layout original do projeto através dos links abaixo:
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ViniciusPolegario/NLW3/issues). You can also take a look at the [contributing guide](https://github.com/ViniciusPolegario/NLW3/blob/master/CONTRIBUTING.md).
+- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
+- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1) 
 
-## Show your support
+Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-Give a ⭐️ if this project helped you!
+##  Licença
 
-## 📝 License
+Esse projeto está sob a licença MIT. 
 
-Copyright © 2020 [ViniciusPolegario](https://github.com/ViniciusPolegario).<br />
-This project is [MIT](https://github.com/ViniciusPolegario/NLW3/blob/master/LICENSE) licensed.
+---
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+<p align="center">Desenvolvido por Vinicius Polegario</p>
